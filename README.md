@@ -5,6 +5,10 @@ Youtube Video:-
 
 https://youtu.be/zXOf4VHHf5Q
 
+PPT Reference:-
+
+https://prezi.com/p/twdst0fuz6wu/smart-parking-system/
+
 Circuit Daigram:-
 
 ![Circuit Diagram](https://user-images.githubusercontent.com/83128853/194041720-d85abbe0-ce92-4b7c-a10c-5ef4b2529e3c.png)
